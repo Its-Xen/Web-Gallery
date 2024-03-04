@@ -1,3 +1,12 @@
 .venv
-__pycache__/
 db.sqlite3
+*.pyc
+staticfiles/
+images/
+.env
+.vscode/
+.idea/
+*.log
+__pycache__/
+*~
+secret_key.txt
