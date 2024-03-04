@@ -48,8 +48,8 @@ This is a web gallery project where users can upload their photos, create, edit,
 Feel free to customize the project to fit your needs and enjoy showcasing your photos in the web gallery!
 
 # Screenshots : 
-<img src="Screenshots/screenshot1.png" height="400" width="800">
-<img src="Screenshots/screenshot2.png" height="400" width="800">
-<img src="Screenshots/screenshot3.png" height="400" width="800">
-<img src="Screenshots/screenshot4.png" height="400" width="800">
-<img src="Screenshots/screenshot5.png" height="400" width="800">
+<img src="ScreenShots/screenshot1.png" height="400" width="800">
+<img src="ScreenShots/screenshot2.png" height="400" width="800">
+<img src="ScreenShots/screenshot3.png" height="400" width="800">
+<img src="ScreenShots/screenshot4.png" height="400" width="800">
+<img src="ScreenShots/screenshot5.png" height="400" width="800">
